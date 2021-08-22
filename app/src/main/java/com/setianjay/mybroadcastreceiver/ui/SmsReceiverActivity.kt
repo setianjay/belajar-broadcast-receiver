@@ -1,7 +1,8 @@
-package com.setianjay.mybroadcastreceiver
+package com.setianjay.mybroadcastreceiver.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.setianjay.mybroadcastreceiver.R
 import com.setianjay.mybroadcastreceiver.databinding.ActivitySmsReceiverBinding
 
 class SmsReceiverActivity : AppCompatActivity() {

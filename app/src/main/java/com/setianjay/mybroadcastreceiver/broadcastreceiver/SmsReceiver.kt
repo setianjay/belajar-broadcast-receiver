@@ -1,4 +1,4 @@
-package com.setianjay.mybroadcastreceiver
+package com.setianjay.mybroadcastreceiver.broadcastreceiver
 
 import android.content.BroadcastReceiver
 import android.content.Context
@@ -7,6 +7,7 @@ import android.os.Build
 import android.os.Bundle
 import android.telephony.SmsMessage
 import android.util.Log
+import com.setianjay.mybroadcastreceiver.ui.SmsReceiverActivity
 import java.lang.Exception
 
 class SmsReceiver : BroadcastReceiver() {

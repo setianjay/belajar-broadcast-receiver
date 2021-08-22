@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:padding="16dp"
     android:orientation="vertical"
-    tools:context=".SmsReceiverActivity">
+    tools:context=".ui.SmsReceiverActivity">
 
     <TextView
         android:id="@+id/tv_from"
